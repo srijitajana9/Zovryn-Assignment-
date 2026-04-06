@@ -5,7 +5,7 @@ function buildOpenApiSpec(baseUrl) {
   return {
     openapi: "3.0.3",
     info: {
-      title: "Zovryn Finance Backend API",
+      title: "Zorvyn Finance Backend API",
       version: "1.0.0",
       description: "Finance Data Processing and Access Control Backend",
     },
